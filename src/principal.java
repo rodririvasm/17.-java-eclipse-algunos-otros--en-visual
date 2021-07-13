@@ -9,5 +9,6 @@ public class principal {
 			persona.edad=20;
 			persona.domicilio="mexico,ciudad de mexico";
 			persona.estatura=1.70f;
-	}
+			System.out.println("IBM");	
+			}
 }
